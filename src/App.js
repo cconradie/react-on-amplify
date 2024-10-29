@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Cobus Conradie Hello World!!
+          Cobus Conradie Hello World!
         </a>
       </header>
     </div>
